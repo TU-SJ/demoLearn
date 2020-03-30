@@ -6,8 +6,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/登录权限认证等/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Boot-Security-JWT-SPA/pom.xml" />
+        <option value="$PROJECT_DIR$/秒杀，抢红包/pom.xml" />
+        <option value="$PROJECT_DIR$/bootshiro/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

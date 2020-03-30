@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bootshiro/bootshiro.iml" filepath="$PROJECT_DIR$/bootshiro/bootshiro.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/demoLearn.iml" filepath="$PROJECT_DIR$/.idea/demoLearn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/登录权限认证等/登录权限认证等.iml" filepath="$PROJECT_DIR$/登录权限认证等/登录权限认证等.iml" />
+      <module fileurl="file://$PROJECT_DIR$/秒杀，抢红包/learning.iml" filepath="$PROJECT_DIR$/秒杀，抢红包/learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Boot-Security-JWT-SPA/spring-boot-security-jwt.iml" filepath="$PROJECT_DIR$/Spring-Boot-Security-JWT-SPA/spring-boot-security-jwt.iml" />
     </modules>
   </component>
 </project>

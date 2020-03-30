@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring-Boot-Security-JWT-SPA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bootshiro" vcs="Git" />
   </component>
 </project>

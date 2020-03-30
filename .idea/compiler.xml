@@ -6,11 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="登录权限认证等" />
+        <module name="learning" />
+        <module name="bootshiro" />
+        <module name="spring-boot-security-jwt" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="bootshiro" target="1.8" />
+      <module name="learning" target="1.8" />
+      <module name="spring-boot-security-jwt" target="1.8" />
       <module name="登录权限认证等" target="1.5" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-security-jwt" options="-parameters" />
+    </option>
   </component>
 </project>
